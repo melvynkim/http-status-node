@@ -1,0 +1,32 @@
+{
+    "name": "http-status-node",
+    "version": "0.0.1",
+    "description": "Http error wrapper",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/http-status-node.git"
+    },
+    "keywords": [
+        "node.js",
+        "http",
+        "status",
+        "response",
+        "error",
+        "code"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "author": {
+        "name": "Melvyn kim"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/melvynkim/http-status-node/issues"
+    },
+    "homepage": "https://github.com/melvynkim/http-status-node"
+}
